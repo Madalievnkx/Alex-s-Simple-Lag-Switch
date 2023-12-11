@@ -5,5 +5,3 @@
 # i used this to troll fatherless slenders lol
 # u may post bug reports in the issues thingy
 # go to https://alexplayrus1.github.io/Alex-s-Simple-Lag-Switch/ for the usage
-
-
